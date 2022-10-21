@@ -2,7 +2,7 @@
 
 This IoT project uses a Notecard to build a remotely-triggered jump-scare skeleton without using a host MCU on the skeleton.
 
-See the full project writeup [on Hackster](TODO)!
+See the full project writeup [on Hackster](https://www.hackster.io/rob-lauer/remotely-terrorize-the-neighborhood-kids-on-halloween-6b9f41)!
 
 ![skeleton jump](https://raw.githubusercontent.com/rdlauer/articles/master/blues/skeleton/skeleton-jump.gif)
 
