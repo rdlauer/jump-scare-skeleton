@@ -4,7 +4,7 @@ This IoT project uses a Notecard to build a remotely-triggered jump-scare skelet
 
 See the full project writeup [on Hackster](TODO)!
 
-![skeleton jump](skeleton-jump.gif)
+![skeleton jump](https://raw.githubusercontent.com/rdlauer/articles/master/blues/skeleton/skeleton-jump.gif)
 
 This project uses...
 
